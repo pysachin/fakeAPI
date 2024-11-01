@@ -1,12 +1,12 @@
 {
-  "JobRoles":[
+  "JobRoles": [
     {
-       "id":'1',
-       "name":'Software Engineer'
+      "id": '1',
+      "name": 'Software Engineer'
     },
     {
-       "id":'2',
-       "name":'Software Engineer'
+      "id": '2',
+      "name": 'Software Engineer'
     }
   ]
 }
